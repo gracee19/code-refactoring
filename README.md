@@ -6,11 +6,11 @@ This shows the changes made from an ambiguous structure of html to a identifiabl
 
 In the photo below shows the <div>Soup.
 
-![alt screenshots-of-changes] (./images/contents.png)
-![alt screenshots-of-changes1] (./images/title,header-nav.png)
-![alt screenshots-of-changes1] (benefits&footer.png)
-![alt screenshots-of-changes1] (css#.png)
-![alt screenshots-of-changes1] (css,.png)
+![screenshots-of-changes](./assets/images/contents.png)
+![screenshots-of-changes1](./assets/images/title,header-nav.png)
+![screenshots-of-changes1](./assets/images/benefits&footer.png)
+![screenshots-of-changes1](./assets/images/css#.png)
+![screenshots-of-changes1](./assets/images/css,.png)
 
  ## Changes
  * * HTML Changes 
